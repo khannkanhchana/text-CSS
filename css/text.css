@@ -1,0 +1,46 @@
+
+*{
+    font-family: "Inter",  "Angkor", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-variant: small-caps;
+    margin-top: bold;
+}
+span {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+h1, span{
+    color: darkblue;
+}
+.btn{
+    background-color:rgb(74, 74, 224);
+    border: none;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+}
+div {
+    border: 1px solid blue;
+    /* align-items: center; */
+    max-width: 900px;
+    margin:auto;
+    margin-bottom: 30px;
+    background-color: #eaeaea;
+    padding: 20px;
+    
+}
+.paragraph{
+    font-family: 'Courier New', Courier, monospace;
+}
+hr{
+    border:none;
+    background-color: lightgray;
+    height: 1px;
+}
+
